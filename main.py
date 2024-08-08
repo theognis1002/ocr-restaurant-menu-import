@@ -101,9 +101,13 @@ def process_image(image_file: Path) -> dict:
 
 def process_images_from_directory(directory_path: str) -> dict:
     """Process all images in the given directory and compile results into a JSON object using multiprocessing."""
-    results = []
-    image_files = list(Path(directory_path).glob("*.jpg"))
+    # Collect all image files with the specified extensions
+    image_extensions = ["*.jpg", "*.jpeg", "*.png", "*.bmp", "*.tiff"]
+    image_files = []
+    for ext in image_extensions:
+        image_files.extend(Path(directory_path).glob(ext))
 
+    results = []
     # Use multiprocessing to process images in parallel
     with Pool(cpu_count()) as pool:
         results = pool.map(process_image, image_files)
