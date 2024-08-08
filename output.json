@@ -1,920 +1,920 @@
 [
-    {
-        "file": "IMG_6528.jpg",
-        "data": {
-            "categories": [
-                {
-                    "name": "Lunch Special",
-                    "description": "Special lunch dishes available from 11:00 am to 3:00 pm",
-                    "slug": "lunch-special",
-                    "is_active": true
-                },
-                {
-                    "name": "Chicken Dishes",
-                    "description": "Various chicken dishes",
-                    "slug": "chicken-dishes",
-                    "is_active": true
-                },
-                {
-                    "name": "Beef Dishes",
-                    "description": "Various beef dishes",
-                    "slug": "beef-dishes",
-                    "is_active": true
-                },
-                {
-                    "name": "Pork Dishes",
-                    "description": "Various pork dishes",
-                    "slug": "pork-dishes",
-                    "is_active": true
-                },
-                {
-                    "name": "Seafood Dishes",
-                    "description": "Various seafood dishes",
-                    "slug": "seafood-dishes",
-                    "is_active": true
-                }
-            ],
-            "products": [
-                {
-                    "title": "Chop Suey (Vegetable or Chicken or Pork)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Chop suey with your choice of vegetable, chicken, or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Chop Suey (Beef)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Chop suey with beef",
-                    "is_active": true
-                },
-                {
-                    "title": "Lo Mein (Beef or Shrimp)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Lo mein with your choice of beef or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Broccoli (Chicken or Pork)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Broccoli with chicken or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Chinese Vegetables (Chicken or Pork)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Chinese vegetables with chicken or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Snow Peas (Chicken or Pork)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Snow peas with chicken or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Snow Peas (Beef or Shrimp)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Lunch Special",
-                    "description": "Snow peas with beef or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Pepper Steak With Onion",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Beef Dishes",
-                    "description": "Pepper steak with onion",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Lobster Sauce",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Seafood Dishes",
-                    "description": "Shrimp served with lobster sauce",
-                    "is_active": true
-                },
-                {
-                    "title": "Boneless Ribs",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Pork Dishes",
-                    "description": "Boneless ribs",
-                    "is_active": true
-                },
-                {
-                    "title": "Sweet & Sour Chicken",
-                    "price_excl_tax": "8.55",
-                    "price_incl_tax": "8.55",
-                    "category": "Chicken Dishes",
-                    "description": "Sweet and sour chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Cashew Chicken or Shrimp",
-                    "price_excl_tax": "8.55",
-                    "price_incl_tax": "8.55",
-                    "category": "Chicken Dishes",
-                    "description": "Cashew chicken or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Moo Goo Gai Pan (Chicken)",
-                    "price_excl_tax": "8.55",
-                    "price_incl_tax": "8.55",
-                    "category": "Chicken Dishes",
-                    "description": "Moo goo gai pan with chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Kung Pao Chicken",
-                    "price_excl_tax": "8.55",
-                    "price_incl_tax": "8.55",
-                    "category": "Chicken Dishes",
-                    "description": "Kung Pao chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Kung Pao (Beef or Shrimp)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Beef Dishes",
-                    "description": "Kung Pao with beef or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Garlic Sauce (Chicken or Pork)",
-                    "price_excl_tax": "8.55",
-                    "price_incl_tax": "8.55",
-                    "category": "Chicken Dishes",
-                    "description": "Garlic sauce with chicken or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Garlic Sauce (Beef or Shrimp)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Beef Dishes",
-                    "description": "Garlic sauce with beef or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Hunan Style (Chicken or Pork)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Chicken Dishes",
-                    "description": "Hunan style with chicken or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Hunan Style (Beef or Shrimp)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Beef Dishes",
-                    "description": "Hunan style with beef or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Szechuan Style (Chicken or Pork)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Chicken Dishes",
-                    "description": "Szechuan style with chicken or pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Szechuan Style (Beef or Shrimp)",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Beef Dishes",
-                    "description": "Szechuan style with beef or shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "General Tso\u2019s or Sesame Chicken",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Chicken Dishes",
-                    "description": "General Tso\u2019s chicken or sesame chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Orange Flavor Chicken",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Chicken Dishes",
-                    "description": "Orange flavor chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Hot & Spicy Shredded Chicken",
-                    "price_excl_tax": "8.75",
-                    "price_incl_tax": "8.75",
-                    "category": "Chicken Dishes",
-                    "description": "Hot and spicy shredded chicken",
-                    "is_active": true
-                }
-            ]
+  {
+    "file": "IMG_6528.jpg",
+    "data": {
+      "categories": [
+        {
+          "name": "Lunch Special",
+          "description": "Special lunch dishes available from 11:00 am to 3:00 pm",
+          "slug": "lunch-special",
+          "is_active": true
+        },
+        {
+          "name": "Chicken Dishes",
+          "description": "Various chicken dishes",
+          "slug": "chicken-dishes",
+          "is_active": true
+        },
+        {
+          "name": "Beef Dishes",
+          "description": "Various beef dishes",
+          "slug": "beef-dishes",
+          "is_active": true
+        },
+        {
+          "name": "Pork Dishes",
+          "description": "Various pork dishes",
+          "slug": "pork-dishes",
+          "is_active": true
+        },
+        {
+          "name": "Seafood Dishes",
+          "description": "Various seafood dishes",
+          "slug": "seafood-dishes",
+          "is_active": true
         }
-    },
-    {
-        "file": "IMG_6525.jpg",
-        "data": {
-            "categories": [
-                {
-                    "name": "Chop Suey",
-                    "description": "Various chop suey dishes",
-                    "slug": "chop-suey",
-                    "is_active": true
-                },
-                {
-                    "name": "Lo Mein",
-                    "description": "Various lo mein dishes",
-                    "slug": "lo-mein",
-                    "is_active": true
-                },
-                {
-                    "name": "Dumplings",
-                    "description": "Steamed or fried dumplings",
-                    "slug": "dumplings",
-                    "is_active": true
-                },
-                {
-                    "name": "Soups",
-                    "description": "Various soup options",
-                    "slug": "soups",
-                    "is_active": true
-                },
-                {
-                    "name": "Double Dishes",
-                    "description": "Combination of different dishes",
-                    "slug": "double-dishes",
-                    "is_active": true
-                },
-                {
-                    "name": "Vegetables",
-                    "description": "Vegetable dishes served with rice",
-                    "slug": "vegetables",
-                    "is_active": true
-                }
-            ],
-            "products": [
-                {
-                    "title": "Vegetable Chop Suey",
-                    "price_excl_tax": "5.00",
-                    "price_incl_tax": "5.00",
-                    "category": "Chop Suey",
-                    "description": "Chop suey with vegetables",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken Chop Suey",
-                    "price_excl_tax": "6.25",
-                    "price_incl_tax": "6.25",
-                    "category": "Chop Suey",
-                    "description": "Chop suey with chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Roast Pork Chop Suey",
-                    "price_excl_tax": "6.25",
-                    "price_incl_tax": "6.25",
-                    "category": "Chop Suey",
-                    "description": "Chop suey with roast pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef Chop Suey",
-                    "price_excl_tax": "6.25",
-                    "price_incl_tax": "6.25",
-                    "category": "Chop Suey",
-                    "description": "Chop suey with beef",
-                    "is_active": true
-                },
-                {
-                    "title": "House Special Chop Suey",
-                    "price_excl_tax": "6.25",
-                    "price_incl_tax": "6.25",
-                    "category": "Chop Suey",
-                    "description": "House special chop suey",
-                    "is_active": true
-                },
-                {
-                    "title": "Vegetable Lo Mein",
-                    "price_excl_tax": "6.95",
-                    "price_incl_tax": "6.95",
-                    "category": "Lo Mein",
-                    "description": "Lo mein with vegetables",
-                    "is_active": true
-                },
-                {
-                    "title": "Roast Pork Lo Mein",
-                    "price_excl_tax": "8.25",
-                    "price_incl_tax": "8.25",
-                    "category": "Lo Mein",
-                    "description": "Lo mein with roast pork",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken Lo Mein",
-                    "price_excl_tax": "7.65",
-                    "price_incl_tax": "7.65",
-                    "category": "Lo Mein",
-                    "description": "Lo mein with chicken",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef Lo Mein",
-                    "price_excl_tax": "9.95",
-                    "price_incl_tax": "9.95",
-                    "category": "Lo Mein",
-                    "description": "Lo mein with beef",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp Lo Mein",
-                    "price_excl_tax": "8.25",
-                    "price_incl_tax": "8.25",
-                    "category": "Lo Mein",
-                    "description": "Lo mein with shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken Dumpling (8)",
-                    "price_excl_tax": "6.95",
-                    "price_incl_tax": "6.95",
-                    "category": "Dumplings",
-                    "description": "Steamed or fried chicken dumplings",
-                    "is_active": true
-                },
-                {
-                    "title": "Fried Cheese Wonton (8)",
-                    "price_excl_tax": "7.25",
-                    "price_incl_tax": "7.25",
-                    "category": "Dumplings",
-                    "description": "Fried cheese wontons",
-                    "is_active": true
-                },
-                {
-                    "title": "Egg Drop Soup",
-                    "price_excl_tax": "2.75",
-                    "price_incl_tax": "4.95",
-                    "category": "Soups",
-                    "description": "Egg drop soup",
-                    "is_active": true
-                },
-                {
-                    "title": "Wonton Soup",
-                    "price_excl_tax": "2.85",
-                    "price_incl_tax": "4.95",
-                    "category": "Soups",
-                    "description": "Wonton soup",
-                    "is_active": true
-                },
-                {
-                    "title": "Hot & Sour Soup",
-                    "price_excl_tax": "3.75",
-                    "price_incl_tax": "5.95",
-                    "category": "Soups",
-                    "description": "Hot and sour soup",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken and Beef Double Dish",
-                    "price_excl_tax": "14.75",
-                    "price_incl_tax": "14.75",
-                    "category": "Double Dishes",
-                    "description": "Double dish with chicken and beef",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken and Scallop Double Dish",
-                    "price_excl_tax": "14.75",
-                    "price_incl_tax": "14.75",
-                    "category": "Double Dishes",
-                    "description": "Double dish with chicken and scallops",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp and Scallop Double Dish",
-                    "price_excl_tax": "14.75",
-                    "price_incl_tax": "14.75",
-                    "category": "Double Dishes",
-                    "description": "Double dish with shrimp and scallops",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken and Shrimp Double Dish",
-                    "price_excl_tax": "14.75",
-                    "price_incl_tax": "14.75",
-                    "category": "Double Dishes",
-                    "description": "Double dish with chicken and shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Vegetables with Rice",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Vegetables",
-                    "description": "Vegetable dish served with rice",
-                    "is_active": true
-                }
-            ]
+      ],
+      "products": [
+        {
+          "title": "Chop Suey (Vegetable or Chicken or Pork)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Chop suey with your choice of vegetable, chicken, or pork",
+          "is_active": true
+        },
+        {
+          "title": "Chop Suey (Beef)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Chop suey with beef",
+          "is_active": true
+        },
+        {
+          "title": "Lo Mein (Beef or Shrimp)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Lo mein with your choice of beef or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Broccoli (Chicken or Pork)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Broccoli with chicken or pork",
+          "is_active": true
+        },
+        {
+          "title": "Chinese Vegetables (Chicken or Pork)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Chinese vegetables with chicken or pork",
+          "is_active": true
+        },
+        {
+          "title": "Snow Peas (Chicken or Pork)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Snow peas with chicken or pork",
+          "is_active": true
+        },
+        {
+          "title": "Snow Peas (Beef or Shrimp)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Lunch Special",
+          "description": "Snow peas with beef or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Pepper Steak With Onion",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Beef Dishes",
+          "description": "Pepper steak with onion",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Lobster Sauce",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Seafood Dishes",
+          "description": "Shrimp served with lobster sauce",
+          "is_active": true
+        },
+        {
+          "title": "Boneless Ribs",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Pork Dishes",
+          "description": "Boneless ribs",
+          "is_active": true
+        },
+        {
+          "title": "Sweet & Sour Chicken",
+          "price_excl_tax": "8.55",
+          "price_incl_tax": "8.55",
+          "category": "Chicken Dishes",
+          "description": "Sweet and sour chicken",
+          "is_active": true
+        },
+        {
+          "title": "Cashew Chicken or Shrimp",
+          "price_excl_tax": "8.55",
+          "price_incl_tax": "8.55",
+          "category": "Chicken Dishes",
+          "description": "Cashew chicken or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Moo Goo Gai Pan (Chicken)",
+          "price_excl_tax": "8.55",
+          "price_incl_tax": "8.55",
+          "category": "Chicken Dishes",
+          "description": "Moo goo gai pan with chicken",
+          "is_active": true
+        },
+        {
+          "title": "Kung Pao Chicken",
+          "price_excl_tax": "8.55",
+          "price_incl_tax": "8.55",
+          "category": "Chicken Dishes",
+          "description": "Kung Pao chicken",
+          "is_active": true
+        },
+        {
+          "title": "Kung Pao (Beef or Shrimp)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Beef Dishes",
+          "description": "Kung Pao with beef or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Garlic Sauce (Chicken or Pork)",
+          "price_excl_tax": "8.55",
+          "price_incl_tax": "8.55",
+          "category": "Chicken Dishes",
+          "description": "Garlic sauce with chicken or pork",
+          "is_active": true
+        },
+        {
+          "title": "Garlic Sauce (Beef or Shrimp)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Beef Dishes",
+          "description": "Garlic sauce with beef or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Hunan Style (Chicken or Pork)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Chicken Dishes",
+          "description": "Hunan style with chicken or pork",
+          "is_active": true
+        },
+        {
+          "title": "Hunan Style (Beef or Shrimp)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Beef Dishes",
+          "description": "Hunan style with beef or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Szechuan Style (Chicken or Pork)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Chicken Dishes",
+          "description": "Szechuan style with chicken or pork",
+          "is_active": true
+        },
+        {
+          "title": "Szechuan Style (Beef or Shrimp)",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Beef Dishes",
+          "description": "Szechuan style with beef or shrimp",
+          "is_active": true
+        },
+        {
+          "title": "General Tso\u2019s or Sesame Chicken",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Chicken Dishes",
+          "description": "General Tso\u2019s chicken or sesame chicken",
+          "is_active": true
+        },
+        {
+          "title": "Orange Flavor Chicken",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Chicken Dishes",
+          "description": "Orange flavor chicken",
+          "is_active": true
+        },
+        {
+          "title": "Hot & Spicy Shredded Chicken",
+          "price_excl_tax": "8.75",
+          "price_incl_tax": "8.75",
+          "category": "Chicken Dishes",
+          "description": "Hot and spicy shredded chicken",
+          "is_active": true
         }
-    },
-    {
-        "file": "IMG_6527.jpg",
-        "data": {
-            "categories": [
-                {
-                    "name": "Combination Platters",
-                    "description": "Combination platters served with egg roll and pork fried rice",
-                    "slug": "combination-platters",
-                    "is_active": true
-                }
-            ],
-            "products": [
-                {
-                    "title": "Chicken Chop Suey",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Chicken Chop Suey served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp Chop Suey",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Shrimp Chop Suey served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken or Pork Lo Mein",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Chicken or Pork Lo Mein served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef or Shrimp Lo Mein",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Beef or Shrimp Lo Mein served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken or Pork w. Broccoli",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Chicken or Pork with Broccoli served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef or Shrimp w. Broccoli",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Beef or Shrimp with Broccoli served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Bar-B-Q Spare Ribs",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Bar-B-Q Spare Ribs served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Boneless Ribs",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Boneless Ribs served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Pepper Steak w. Onion",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Pepper Steak with Onion served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp w. Lobster Sauce",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Shrimp with Lobster Sauce served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Joo Goo Gai Pan",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Joo Goo Gai Pan served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef w. Chinese Vegetables",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Beef with Chinese Vegetables served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Sweet & Sour Chicken",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Sweet & Sour Chicken served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Mixed Vegetables",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Mixed Vegetables served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken w. Garlic Sauce",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Chicken with Garlic Sauce served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef w. Garlic Sauce",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Beef with Garlic Sauce served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken w. Hunan Sauce",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Chicken with Hunan Sauce served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef w. Hunan Sauce",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Beef with Hunan Sauce served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken w. Szechuan Style",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Chicken with Szechuan Style served with egg roll and pork fried rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef w. Szechuan Style",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Combination Platters",
-                    "description": "Beef with Szechuan Style served with egg roll and pork fried rice",
-                    "is_active": true
-                }
-            ]
-        }
-    },
-    {
-        "file": "IMG_6526.jpg",
-        "data": {
-            "categories": [
-                {
-                    "name": "Seafood",
-                    "description": "Various seafood dishes",
-                    "slug": "seafood",
-                    "is_active": true
-                },
-                {
-                    "name": "Chef's Specialties",
-                    "description": "Specialty dishes prepared by the chef",
-                    "slug": "chefs-specialties",
-                    "is_active": true
-                },
-                {
-                    "name": "Noodles",
-                    "description": "Various noodle dishes",
-                    "slug": "noodles",
-                    "is_active": true
-                }
-            ],
-            "products": [
-                {
-                    "title": "Shrimp with Broccoli",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with broccoli",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Chinese Vegetables",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with Chinese vegetables",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Snow Peas",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with snow peas",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Mushrooms",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with mushrooms",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Lobster Sauce",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with lobster sauce",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Oyster Sauce",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with oyster sauce",
-                    "is_active": true
-                },
-                {
-                    "title": "Curry Shrimp with Mixed Rice",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Curry shrimp with mixed rice",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Mixed Vegetables",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with mixed vegetables",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Garlic Sauce",
-                    "price_excl_tax": "14.45",
-                    "price_incl_tax": "14.45",
-                    "category": "Seafood",
-                    "description": "Shrimp with garlic sauce",
-                    "is_active": true
-                },
-                {
-                    "title": "Sesame Shrimp",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Seafood",
-                    "description": "Sesame shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Jumbo Shrimp & Scallop with Garlic Sauce",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Seafood",
-                    "description": "Jumbo shrimp and scallop with garlic sauce",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp with Chili Sauce",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Seafood",
-                    "description": "Shrimp with chili sauce",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp Hunan Style",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Seafood",
-                    "description": "Shrimp Hunan style",
-                    "is_active": true
-                },
-                {
-                    "title": "Szechuan Shrimp",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Seafood",
-                    "description": "Szechuan shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "General Tso's Shrimp",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Seafood",
-                    "description": "General Tso's shrimp",
-                    "is_active": true
-                },
-                {
-                    "title": "Seafood Delight",
-                    "price_excl_tax": "15.95",
-                    "price_incl_tax": "15.95",
-                    "category": "Chef's Specialties",
-                    "description": "Lobster, shrimp, scallops, deliciously sauteed with assorted Chinese vegetables in special white sauce.",
-                    "is_active": true
-                },
-                {
-                    "title": "Happy Family",
-                    "price_excl_tax": "15.95",
-                    "price_incl_tax": "15.95",
-                    "category": "Chef's Specialties",
-                    "description": "Lobster, beef, chicken, shrimp & roast pork with mixed vegetables.",
-                    "is_active": true
-                },
-                {
-                    "title": "Four Seasons",
-                    "price_excl_tax": "14.15",
-                    "price_incl_tax": "14.15",
-                    "category": "Chef's Specialties",
-                    "description": "Shrimp, pork, chicken & beef with mixed vegetables in brown sauce.",
-                    "is_active": true
-                },
-                {
-                    "title": "Triple Delight",
-                    "price_excl_tax": "15.00",
-                    "price_incl_tax": "15.00",
-                    "category": "Chef's Specialties",
-                    "description": "Beef, chicken, shrimp sauteed with mixed vegetables in chef's special sauce.",
-                    "is_active": true
-                },
-                {
-                    "title": "House Special Pan Fried Noodles",
-                    "price_excl_tax": "14.75",
-                    "price_incl_tax": "14.75",
-                    "category": "Chef's Specialties",
-                    "description": "Shrimp, chicken, pork with selected vegetables on top of pan fried noodles.",
-                    "is_active": true
-                },
-                {
-                    "title": "Pineapple Chicken",
-                    "price_excl_tax": "14.25",
-                    "price_incl_tax": "14.25",
-                    "category": "Chef's Specialties",
-                    "description": "Chicken with pineapple chunks & vegetables in pineapple sauce.",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef & Scallop Platter",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Chef's Specialties",
-                    "description": "Beef and scallops platter.",
-                    "is_active": true
-                },
-                {
-                    "title": "Green Jade Shrimp",
-                    "price_excl_tax": "14.55",
-                    "price_incl_tax": "14.55",
-                    "category": "Chef's Specialties",
-                    "description": "Shrimp with broccoli, snow peas & string beans.",
-                    "is_active": true
-                },
-                {
-                    "title": "Romeo & Juliet",
-                    "price_excl_tax": "14.25",
-                    "price_incl_tax": "14.25",
-                    "category": "Chef's Specialties",
-                    "description": "General Tso\u2019s chicken & jumbo shrimp in chili sauce.",
-                    "is_active": true
-                },
-                {
-                    "title": "Green Jade Chicken",
-                    "price_excl_tax": "14.25",
-                    "price_incl_tax": "14.25",
-                    "category": "Chef's Specialties",
-                    "description": "Chicken with broccoli, snow peas & string beans.",
-                    "is_active": true
-                },
-                {
-                    "title": "Seafood Pan Fried Noodles",
-                    "price_excl_tax": "14.95",
-                    "price_incl_tax": "14.95",
-                    "category": "Noodles",
-                    "description": "Seafood pan fried noodles.",
-                    "is_active": true
-                },
-                {
-                    "title": "Bean Curd Broccoli",
-                    "price_excl_tax": "12.95",
-                    "price_incl_tax": "12.95",
-                    "category": "Noodles",
-                    "description": "Bean curd with broccoli.",
-                    "is_active": true
-                },
-                {
-                    "title": "Chicken Chow Mai Fun",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Noodles",
-                    "description": "Chicken chow mai fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "Vegetable Chow Mai Fun",
-                    "price_excl_tax": "11.25",
-                    "price_incl_tax": "11.25",
-                    "category": "Noodles",
-                    "description": "Vegetable chow mai fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "Beef Chow Mai Fun",
-                    "price_excl_tax": "11.25",
-                    "price_incl_tax": "11.25",
-                    "category": "Noodles",
-                    "description": "Beef chow mai fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "Shrimp Chow Mai Fun",
-                    "price_excl_tax": "11.25",
-                    "price_incl_tax": "11.25",
-                    "category": "Noodles",
-                    "description": "Shrimp chow mai fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "House Special Chow Mai Fun",
-                    "price_excl_tax": "11.50",
-                    "price_incl_tax": "11.50",
-                    "category": "Noodles",
-                    "description": "House special chow mai fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "Singapore Chow Mai Fun",
-                    "price_excl_tax": "11.50",
-                    "price_incl_tax": "11.50",
-                    "category": "Noodles",
-                    "description": "Singapore chow mai fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "Roast Pork Chow Fun",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Noodles",
-                    "description": "Roast pork chow fun.",
-                    "is_active": true
-                },
-                {
-                    "title": "Roast Pork Mai Fun",
-                    "price_excl_tax": "10.95",
-                    "price_incl_tax": "10.95",
-                    "category": "Noodles",
-                    "description": "Roast pork mai fun.",
-                    "is_active": true
-                }
-            ]
-        }
+      ]
     }
+  },
+  {
+    "file": "IMG_6525.jpg",
+    "data": {
+      "categories": [
+        {
+          "name": "Chop Suey",
+          "description": "Various chop suey dishes",
+          "slug": "chop-suey",
+          "is_active": true
+        },
+        {
+          "name": "Lo Mein",
+          "description": "Various lo mein dishes",
+          "slug": "lo-mein",
+          "is_active": true
+        },
+        {
+          "name": "Dumplings",
+          "description": "Steamed or fried dumplings",
+          "slug": "dumplings",
+          "is_active": true
+        },
+        {
+          "name": "Soups",
+          "description": "Various soup options",
+          "slug": "soups",
+          "is_active": true
+        },
+        {
+          "name": "Double Dishes",
+          "description": "Combination of different dishes",
+          "slug": "double-dishes",
+          "is_active": true
+        },
+        {
+          "name": "Vegetables",
+          "description": "Vegetable dishes served with rice",
+          "slug": "vegetables",
+          "is_active": true
+        }
+      ],
+      "products": [
+        {
+          "title": "Vegetable Chop Suey",
+          "price_excl_tax": "5.00",
+          "price_incl_tax": "5.00",
+          "category": "Chop Suey",
+          "description": "Chop suey with vegetables",
+          "is_active": true
+        },
+        {
+          "title": "Chicken Chop Suey",
+          "price_excl_tax": "6.25",
+          "price_incl_tax": "6.25",
+          "category": "Chop Suey",
+          "description": "Chop suey with chicken",
+          "is_active": true
+        },
+        {
+          "title": "Roast Pork Chop Suey",
+          "price_excl_tax": "6.25",
+          "price_incl_tax": "6.25",
+          "category": "Chop Suey",
+          "description": "Chop suey with roast pork",
+          "is_active": true
+        },
+        {
+          "title": "Beef Chop Suey",
+          "price_excl_tax": "6.25",
+          "price_incl_tax": "6.25",
+          "category": "Chop Suey",
+          "description": "Chop suey with beef",
+          "is_active": true
+        },
+        {
+          "title": "House Special Chop Suey",
+          "price_excl_tax": "6.25",
+          "price_incl_tax": "6.25",
+          "category": "Chop Suey",
+          "description": "House special chop suey",
+          "is_active": true
+        },
+        {
+          "title": "Vegetable Lo Mein",
+          "price_excl_tax": "6.95",
+          "price_incl_tax": "6.95",
+          "category": "Lo Mein",
+          "description": "Lo mein with vegetables",
+          "is_active": true
+        },
+        {
+          "title": "Roast Pork Lo Mein",
+          "price_excl_tax": "8.25",
+          "price_incl_tax": "8.25",
+          "category": "Lo Mein",
+          "description": "Lo mein with roast pork",
+          "is_active": true
+        },
+        {
+          "title": "Chicken Lo Mein",
+          "price_excl_tax": "7.65",
+          "price_incl_tax": "7.65",
+          "category": "Lo Mein",
+          "description": "Lo mein with chicken",
+          "is_active": true
+        },
+        {
+          "title": "Beef Lo Mein",
+          "price_excl_tax": "9.95",
+          "price_incl_tax": "9.95",
+          "category": "Lo Mein",
+          "description": "Lo mein with beef",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp Lo Mein",
+          "price_excl_tax": "8.25",
+          "price_incl_tax": "8.25",
+          "category": "Lo Mein",
+          "description": "Lo mein with shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Chicken Dumpling (8)",
+          "price_excl_tax": "6.95",
+          "price_incl_tax": "6.95",
+          "category": "Dumplings",
+          "description": "Steamed or fried chicken dumplings",
+          "is_active": true
+        },
+        {
+          "title": "Fried Cheese Wonton (8)",
+          "price_excl_tax": "7.25",
+          "price_incl_tax": "7.25",
+          "category": "Dumplings",
+          "description": "Fried cheese wontons",
+          "is_active": true
+        },
+        {
+          "title": "Egg Drop Soup",
+          "price_excl_tax": "2.75",
+          "price_incl_tax": "4.95",
+          "category": "Soups",
+          "description": "Egg drop soup",
+          "is_active": true
+        },
+        {
+          "title": "Wonton Soup",
+          "price_excl_tax": "2.85",
+          "price_incl_tax": "4.95",
+          "category": "Soups",
+          "description": "Wonton soup",
+          "is_active": true
+        },
+        {
+          "title": "Hot & Sour Soup",
+          "price_excl_tax": "3.75",
+          "price_incl_tax": "5.95",
+          "category": "Soups",
+          "description": "Hot and sour soup",
+          "is_active": true
+        },
+        {
+          "title": "Chicken and Beef Double Dish",
+          "price_excl_tax": "14.75",
+          "price_incl_tax": "14.75",
+          "category": "Double Dishes",
+          "description": "Double dish with chicken and beef",
+          "is_active": true
+        },
+        {
+          "title": "Chicken and Scallop Double Dish",
+          "price_excl_tax": "14.75",
+          "price_incl_tax": "14.75",
+          "category": "Double Dishes",
+          "description": "Double dish with chicken and scallops",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp and Scallop Double Dish",
+          "price_excl_tax": "14.75",
+          "price_incl_tax": "14.75",
+          "category": "Double Dishes",
+          "description": "Double dish with shrimp and scallops",
+          "is_active": true
+        },
+        {
+          "title": "Chicken and Shrimp Double Dish",
+          "price_excl_tax": "14.75",
+          "price_incl_tax": "14.75",
+          "category": "Double Dishes",
+          "description": "Double dish with chicken and shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Vegetables with Rice",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Vegetables",
+          "description": "Vegetable dish served with rice",
+          "is_active": true
+        }
+      ]
+    }
+  },
+  {
+    "file": "IMG_6527.jpg",
+    "data": {
+      "categories": [
+        {
+          "name": "Combination Platters",
+          "description": "Combination platters served with egg roll and pork fried rice",
+          "slug": "combination-platters",
+          "is_active": true
+        }
+      ],
+      "products": [
+        {
+          "title": "Chicken Chop Suey",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Chicken Chop Suey served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp Chop Suey",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Shrimp Chop Suey served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Chicken or Pork Lo Mein",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Chicken or Pork Lo Mein served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Beef or Shrimp Lo Mein",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Beef or Shrimp Lo Mein served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Chicken or Pork w. Broccoli",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Chicken or Pork with Broccoli served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Beef or Shrimp w. Broccoli",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Beef or Shrimp with Broccoli served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Bar-B-Q Spare Ribs",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Bar-B-Q Spare Ribs served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Boneless Ribs",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Boneless Ribs served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Pepper Steak w. Onion",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Pepper Steak with Onion served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp w. Lobster Sauce",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Shrimp with Lobster Sauce served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Joo Goo Gai Pan",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Joo Goo Gai Pan served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Beef w. Chinese Vegetables",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Beef with Chinese Vegetables served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Sweet & Sour Chicken",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Sweet & Sour Chicken served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Mixed Vegetables",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Mixed Vegetables served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Chicken w. Garlic Sauce",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Chicken with Garlic Sauce served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Beef w. Garlic Sauce",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Beef with Garlic Sauce served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Chicken w. Hunan Sauce",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Chicken with Hunan Sauce served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Beef w. Hunan Sauce",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Beef with Hunan Sauce served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Chicken w. Szechuan Style",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Chicken with Szechuan Style served with egg roll and pork fried rice",
+          "is_active": true
+        },
+        {
+          "title": "Beef w. Szechuan Style",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Combination Platters",
+          "description": "Beef with Szechuan Style served with egg roll and pork fried rice",
+          "is_active": true
+        }
+      ]
+    }
+  },
+  {
+    "file": "IMG_6526.jpg",
+    "data": {
+      "categories": [
+        {
+          "name": "Seafood",
+          "description": "Various seafood dishes",
+          "slug": "seafood",
+          "is_active": true
+        },
+        {
+          "name": "Chef's Specialties",
+          "description": "Specialty dishes prepared by the chef",
+          "slug": "chefs-specialties",
+          "is_active": true
+        },
+        {
+          "name": "Noodles",
+          "description": "Various noodle dishes",
+          "slug": "noodles",
+          "is_active": true
+        }
+      ],
+      "products": [
+        {
+          "title": "Shrimp with Broccoli",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with broccoli",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Chinese Vegetables",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with Chinese vegetables",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Snow Peas",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with snow peas",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Mushrooms",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with mushrooms",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Lobster Sauce",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with lobster sauce",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Oyster Sauce",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with oyster sauce",
+          "is_active": true
+        },
+        {
+          "title": "Curry Shrimp with Mixed Rice",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Curry shrimp with mixed rice",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Mixed Vegetables",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with mixed vegetables",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Garlic Sauce",
+          "price_excl_tax": "14.45",
+          "price_incl_tax": "14.45",
+          "category": "Seafood",
+          "description": "Shrimp with garlic sauce",
+          "is_active": true
+        },
+        {
+          "title": "Sesame Shrimp",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Seafood",
+          "description": "Sesame shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Jumbo Shrimp & Scallop with Garlic Sauce",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Seafood",
+          "description": "Jumbo shrimp and scallop with garlic sauce",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp with Chili Sauce",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Seafood",
+          "description": "Shrimp with chili sauce",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp Hunan Style",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Seafood",
+          "description": "Shrimp Hunan style",
+          "is_active": true
+        },
+        {
+          "title": "Szechuan Shrimp",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Seafood",
+          "description": "Szechuan shrimp",
+          "is_active": true
+        },
+        {
+          "title": "General Tso's Shrimp",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Seafood",
+          "description": "General Tso's shrimp",
+          "is_active": true
+        },
+        {
+          "title": "Seafood Delight",
+          "price_excl_tax": "15.95",
+          "price_incl_tax": "15.95",
+          "category": "Chef's Specialties",
+          "description": "Lobster, shrimp, scallops, deliciously sauteed with assorted Chinese vegetables in special white sauce.",
+          "is_active": true
+        },
+        {
+          "title": "Happy Family",
+          "price_excl_tax": "15.95",
+          "price_incl_tax": "15.95",
+          "category": "Chef's Specialties",
+          "description": "Lobster, beef, chicken, shrimp & roast pork with mixed vegetables.",
+          "is_active": true
+        },
+        {
+          "title": "Four Seasons",
+          "price_excl_tax": "14.15",
+          "price_incl_tax": "14.15",
+          "category": "Chef's Specialties",
+          "description": "Shrimp, pork, chicken & beef with mixed vegetables in brown sauce.",
+          "is_active": true
+        },
+        {
+          "title": "Triple Delight",
+          "price_excl_tax": "15.00",
+          "price_incl_tax": "15.00",
+          "category": "Chef's Specialties",
+          "description": "Beef, chicken, shrimp sauteed with mixed vegetables in chef's special sauce.",
+          "is_active": true
+        },
+        {
+          "title": "House Special Pan Fried Noodles",
+          "price_excl_tax": "14.75",
+          "price_incl_tax": "14.75",
+          "category": "Chef's Specialties",
+          "description": "Shrimp, chicken, pork with selected vegetables on top of pan fried noodles.",
+          "is_active": true
+        },
+        {
+          "title": "Pineapple Chicken",
+          "price_excl_tax": "14.25",
+          "price_incl_tax": "14.25",
+          "category": "Chef's Specialties",
+          "description": "Chicken with pineapple chunks & vegetables in pineapple sauce.",
+          "is_active": true
+        },
+        {
+          "title": "Beef & Scallop Platter",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Chef's Specialties",
+          "description": "Beef and scallops platter.",
+          "is_active": true
+        },
+        {
+          "title": "Green Jade Shrimp",
+          "price_excl_tax": "14.55",
+          "price_incl_tax": "14.55",
+          "category": "Chef's Specialties",
+          "description": "Shrimp with broccoli, snow peas & string beans.",
+          "is_active": true
+        },
+        {
+          "title": "Romeo & Juliet",
+          "price_excl_tax": "14.25",
+          "price_incl_tax": "14.25",
+          "category": "Chef's Specialties",
+          "description": "General Tso\u2019s chicken & jumbo shrimp in chili sauce.",
+          "is_active": true
+        },
+        {
+          "title": "Green Jade Chicken",
+          "price_excl_tax": "14.25",
+          "price_incl_tax": "14.25",
+          "category": "Chef's Specialties",
+          "description": "Chicken with broccoli, snow peas & string beans.",
+          "is_active": true
+        },
+        {
+          "title": "Seafood Pan Fried Noodles",
+          "price_excl_tax": "14.95",
+          "price_incl_tax": "14.95",
+          "category": "Noodles",
+          "description": "Seafood pan fried noodles.",
+          "is_active": true
+        },
+        {
+          "title": "Bean Curd Broccoli",
+          "price_excl_tax": "12.95",
+          "price_incl_tax": "12.95",
+          "category": "Noodles",
+          "description": "Bean curd with broccoli.",
+          "is_active": true
+        },
+        {
+          "title": "Chicken Chow Mai Fun",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Noodles",
+          "description": "Chicken chow mai fun.",
+          "is_active": true
+        },
+        {
+          "title": "Vegetable Chow Mai Fun",
+          "price_excl_tax": "11.25",
+          "price_incl_tax": "11.25",
+          "category": "Noodles",
+          "description": "Vegetable chow mai fun.",
+          "is_active": true
+        },
+        {
+          "title": "Beef Chow Mai Fun",
+          "price_excl_tax": "11.25",
+          "price_incl_tax": "11.25",
+          "category": "Noodles",
+          "description": "Beef chow mai fun.",
+          "is_active": true
+        },
+        {
+          "title": "Shrimp Chow Mai Fun",
+          "price_excl_tax": "11.25",
+          "price_incl_tax": "11.25",
+          "category": "Noodles",
+          "description": "Shrimp chow mai fun.",
+          "is_active": true
+        },
+        {
+          "title": "House Special Chow Mai Fun",
+          "price_excl_tax": "11.50",
+          "price_incl_tax": "11.50",
+          "category": "Noodles",
+          "description": "House special chow mai fun.",
+          "is_active": true
+        },
+        {
+          "title": "Singapore Chow Mai Fun",
+          "price_excl_tax": "11.50",
+          "price_incl_tax": "11.50",
+          "category": "Noodles",
+          "description": "Singapore chow mai fun.",
+          "is_active": true
+        },
+        {
+          "title": "Roast Pork Chow Fun",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Noodles",
+          "description": "Roast pork chow fun.",
+          "is_active": true
+        },
+        {
+          "title": "Roast Pork Mai Fun",
+          "price_excl_tax": "10.95",
+          "price_incl_tax": "10.95",
+          "category": "Noodles",
+          "description": "Roast pork mai fun.",
+          "is_active": true
+        }
+      ]
+    }
+  }
 ]
