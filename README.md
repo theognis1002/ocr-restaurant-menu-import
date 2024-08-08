@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Restaurant Menu Image](https://github.com/theognis1002/ocr-restaurant-menu-import/blob/main/images/IMG_6527.jpg?raw=true)
+
 This script extracts text from images of restaurant menus using Optical Character Recognition (OCR) and then enhances and structures the extracted text using a language model. The script processes images in a specified directory and outputs the structured data to a JSON file.
 
 ## Features
