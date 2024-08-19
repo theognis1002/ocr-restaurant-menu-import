@@ -27,7 +27,7 @@ Jinja2==3.1.4
 jiter==0.5.0
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
-litellm==1.43.9
+litellm==1.43.18
 MarkupSafe==2.1.5
 mccabe==0.7.0
 multidict==6.0.5
