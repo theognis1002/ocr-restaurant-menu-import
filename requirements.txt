@@ -33,7 +33,7 @@ mccabe==0.7.0
 multidict==6.0.5
 mypy-extensions==1.0.0
 nodeenv==1.9.1
-openai==1.40.6
+openai==1.43.0
 packaging==24.1
 pathspec==0.12.1
 pillow==10.4.0
